@@ -1,0 +1,33 @@
+body {
+    background-color: white;
+}
+
+.presentation .container .row #logo {
+    /*background-color: blue;*/
+    width: 100%;
+}
+
+.presentation .container .row #logo img {
+    height: 15em;
+}
+
+.products .card .card-header {
+    color: rgb(224, 38, 49);
+    text-align: center;
+}
+
+.products .card p {
+    text-align: center;
+}
+
+.wk-products .card ul li h6 {
+    color: rgb(224, 38, 49);
+}
+
+footer {
+    color: white;
+}
+
+footer .row div {
+    text-align: center;
+}
